@@ -35,10 +35,10 @@
 
 ---
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lehenriques&layout=compact)](https://github.com/lehenriques/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lehenriques&layout=compact&theme=gotham)](https://github.com/lehenriques/github-readme-stats)
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lehenriques&show_icons=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lehenriques&show_icons=true&count_private=true&theme=gotham" />
 </div>
 
 <!--
