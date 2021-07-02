@@ -14,7 +14,7 @@
 
 <br />
 
-> Olá, sou Leandro Henriques, apaixonado por desenvolvimeto Web Full Stack autodidata e estudante de Engenharia de Software. Tenho muito cuidado em meus projetos com a qualidade do código e segurança. 
+> Olá, sou Leandro Henriques, autodidata apaixonado por desenvolvimeto Web Full Stack atualmente estudante de Engenharia de Software. Tenho muito cuidado em meus projetos visando a qualidade do código e segurança. 
 
 - 💼 Qualquer trabalho freelance? Estou a disposição, [email](mailto:lehenriques@gmail.com) :)
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
